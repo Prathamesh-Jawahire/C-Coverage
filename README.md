@@ -12,6 +12,99 @@ The project has used the windows api of threading and socket programming - `Wins
 
 The networking layer also uses the local host `127.0.0.1` ip as default. You can change it in the [Server.h](./Server/Headers/Server.h)
 
+## Build, run, tests, and coverage (Windows)
+
+This repository includes a CMake + GoogleTest setup that can:
+
+- Build the project libraries used by tests
+- Run all unit tests
+- Generate code coverage reports using `gcovr` (GCC/MinGW)
+
+### Prerequisites
+
+Install:
+
+- **Git**
+- **MSYS2 MinGW-w64 (recommended)** with:
+  - `g++` / `gcc`
+  - `cmake`
+  - `ninja`
+  - `gcov` (comes with GCC)
+- **Python 3** (for `gcovr`)
+
+If you use MSYS2, you can install the toolchain from an **MSYS2 MinGW64** shell:
+
+```bash
+pacman -S --needed mingw-w64-x86_64-toolchain mingw-w64-x86_64-cmake mingw-w64-x86_64-ninja
+```
+
+Install `gcovr`:
+
+```powershell
+python -m pip install --user --upgrade gcovr
+```
+
+### Configure and build (Ninja)
+
+From the repo root:
+
+```powershell
+cmake -S . -B build -G Ninja
+cmake --build build -j
+```
+
+### Run unit tests
+
+```powershell
+ctest --test-dir build --output-on-failure
+```
+
+### Build and run with coverage + generate reports
+
+Coverage build:
+
+```powershell
+cmake -S . -B build-coverage -G Ninja -DENABLE_COVERAGE=ON
+cmake --build build-coverage -j
+ctest --test-dir build-coverage --output-on-failure
+```
+
+Generate reports (important: use forward slashes for `gcov.exe` on Windows):
+
+```powershell
+$common = @(
+  '-r','.',
+  '--gcov-executable','C:/msys64/mingw64/bin/gcov.exe',
+  '--object-directory','build-coverage',
+  '--filter','Server/Headers',
+  '--exclude','tests'
+)
+
+python -m gcovr @common --print-summary --txt build-coverage\coverage.txt
+python -m gcovr @common --xml-pretty -o build-coverage\coverage.xml
+python -m gcovr @common --html-details build-coverage\coverage.html
+```
+
+Outputs:
+
+- `build-coverage/coverage.txt`
+- `build-coverage/coverage.xml`
+- `build-coverage/coverage.html`
+
+### Running the actual client/server program (legacy build)
+
+The original project includes `Server/serverProgram.cpp` and `Client/clientProgram.cpp`.
+These use legacy `myHeader.h` compilation style (including `*.cpp` files).
+
+If you want, you can compile them with MinGW directly (no CMake):
+
+```powershell
+g++ -std=c++17 -O2 -I .\Server .\Server\serverProgram.cpp -lws2_32 -o server.exe
+g++ -std=c++17 -O2 -I .\Client .\Client\clientProgram.cpp -lws2_32 -o client.exe
+```
+
+Then run `server.exe` in one terminal and `client.exe` in another.
+
 ## Networking layer
 
 The networking layer consists of those classes and functions which
@@ -116,12 +209,4 @@ This layer uses the networking layer to implement a networked shopping app.
 
 For a detailed explanation of everything, refer to this [report.](./REPORT.pdf)
 
-## Last Updated
-
-_May, 2021_
-
-## Authors
-
-- github : [@saad0510](https://www.github.com/saad0510)
-- email  : k200161@nu.edu.pk or ayyansaad46@gmail.com
 
