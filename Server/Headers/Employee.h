@@ -8,5 +8,6 @@ class Employee: public Person
         void home() override;
         void complain();
     public:
+        Employee() : Person() {}
         Employee(Thread& server) : Person(server) {}
 };

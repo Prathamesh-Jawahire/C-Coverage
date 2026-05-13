@@ -45,8 +45,9 @@ class Person
         bool input(const string& fileName);
         bool transfer_to_file(const string& fileName);
         
-        // pure virtual function
-        virtual void home() = 0; 
+        // In production, derived types override this.
+        // For unit tests, we keep a default no-op implementation so `Person` is instantiable.
+        virtual void home() {} 
 
         // Methods for initialaizing and updating
         bool initialize_goods(Goods* goods);
@@ -61,6 +62,15 @@ class Person
         void buy(const string& fileName);
 
     public:
+        Person() : server(nullptr) {}
+        Person(const string& n, int a) : server(nullptr) { setName(n); setAge(a); }
         Person(Thread& server) : server(&server) {}
+
+        void setName(const string& n) { name = n; }
+        string getName() const { return name; }
+
+        void setAge(int a) { age = to_string(a); }
+        int getAge() const { return age.empty() ? 0 : stoi(age); }
+
         void login(const string& fileName);   
 };

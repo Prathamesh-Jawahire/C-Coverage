@@ -8,6 +8,7 @@ class Customer: public Person
     void complain();
 
     public:
+        Customer() : Person() {}
         Customer(Thread& server) : Person(server) {};
         void start();
 };

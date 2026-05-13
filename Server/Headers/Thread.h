@@ -1,5 +1,6 @@
 #pragma once
 
+#include <deque>
 #include <string>
 #include <windows.h>
 
@@ -42,10 +43,26 @@ public:
     int Send(const double& var) const;
     int Rec(std::string& receivingString);
 
+    // Test support: lets unit tests drive code without real sockets.
+    void enableTestMode(bool enabled = true) { testMode = enabled; }
+    void testPushRecv(const std::string& s) { inbox.push_back(s); }
+    std::string testPopSent()
+    {
+        if (outbox.empty())
+            return {};
+        std::string v = outbox.front();
+        outbox.pop_front();
+        return v;
+    }
+    size_t testSentCount() const { return outbox.size(); }
 
 private:
     HANDLE handle = nullptr;
     Data data;
     bool free = true;
     bool destroyed = false;
+
+    bool testMode = false;
+    std::deque<std::string> inbox;
+    mutable std::deque<std::string> outbox;
 };

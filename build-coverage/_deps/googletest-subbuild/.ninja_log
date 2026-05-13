@@ -1,0 +1,21 @@
+# ninja log v7
+4	178	8003619749951761	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	46a4a69e24f1d511
+4	178	8003619749951761	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	46a4a69e24f1d511
+180	3662	8003619784782713	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	8b315b23084d5979
+180	3662	8003619784782713	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	8b315b23084d5979
+3662	3887	8003619786898908	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	90b8a43b9da83f78
+3662	3887	8003619786898908	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	90b8a43b9da83f78
+3888	4171	8003619789836094	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9e5ec5ab58fa6198
+3888	4171	8003619789836094	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	9e5ec5ab58fa6198
+4172	4434	8003619792460552	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	22f2fa3b8025d637
+4172	4434	8003619792460552	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	22f2fa3b8025d637
+4435	4638	8003619794518738	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b61599dd95e3289b
+4435	4638	8003619794518738	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	b61599dd95e3289b
+4639	4833	8003619796515025	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a87f8a45d6e1b7df
+4639	4833	8003619796515025	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	a87f8a45d6e1b7df
+4834	5020	8003619798357665	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e698bd872c6dc02b
+4834	5020	8003619798357665	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	e698bd872c6dc02b
+5021	5301	8003619801194436	CMakeFiles/googletest-populate-complete	1d817c8c568c915e
+5021	5301	8003619801194436	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	1d817c8c568c915e
+5021	5301	8003619801194436	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	1d817c8c568c915e
+5021	5301	8003619801194436	C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	1d817c8c568c915e

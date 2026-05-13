@@ -2,7 +2,7 @@
 
 class Cash
 {
-    double initial, in, out, finl;
+    double initial = 0.0, in = 0.0, out = 0.0, finl = 0.0;
     friend class Person;
 
     public:
@@ -13,13 +13,13 @@ class Cash
         void operator -(double i); // Cash out
 };
 
-void Cash::operator +(double i) // Operator for Cash in
+inline void Cash::operator +(double i) // Operator for Cash in
 {
     in += i;
     finl += i;
 }
 
-void Cash::operator -(double i) // Operator for Cash out
+inline void Cash::operator -(double i) // Operator for Cash out
 {
     out += i;
     finl -= i;

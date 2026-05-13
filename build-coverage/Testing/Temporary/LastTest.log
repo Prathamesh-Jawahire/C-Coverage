@@ -1,0 +1,867 @@
+Start testing: May 13 14:01 India Standard Time
+----------------------------------------------------------
+1/32 Testing: LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect
+1/32 Test: LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from LoginFlowTest
+[ RUN      ] LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect
+[       OK ] LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect (25 ms)
+[----------] 1 test from LoginFlowTest (25 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (25 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect" end time: May 13 14:01 India Standard Time
+"LoginFlowTest.LoginCoversIncorrectUserPassAndCorrect" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/32 Testing: ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit
+2/32 Test: ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplainFlowTest
+[ RUN      ] ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit
+[       OK ] ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit (34 ms)
+[----------] 1 test from ComplainFlowTest (35 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (35 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit" end time: May 13 14:01 India Standard Time
+"ComplainFlowTest.CustomerLoginThenComplainWriteReviewUpdateExit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/32 Testing: ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit
+3/32 Test: ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplainFlowTest
+[ RUN      ] ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit
+[       OK ] ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit (128 ms)
+[----------] 1 test from ComplainFlowTest (128 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (129 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit" end time: May 13 14:01 India Standard Time
+"ComplainFlowTest.EmployeeHomeThenComplainSeeAnswerViewClearExit" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/32 Testing: AdminFlowTest.ViewAndAccountsSendData
+4/32 Test: AdminFlowTest.ViewAndAccountsSendData
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminFlowTest.ViewAndAccountsSendData" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminFlowTest.ViewAndAccountsSendData" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminFlowTest.ViewAndAccountsSendData
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminFlowTest
+[ RUN      ] AdminFlowTest.ViewAndAccountsSendData
+[       OK ] AdminFlowTest.ViewAndAccountsSendData (72 ms)
+[----------] 1 test from AdminFlowTest (72 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (72 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"AdminFlowTest.ViewAndAccountsSendData" end time: May 13 14:01 India Standard Time
+"AdminFlowTest.ViewAndAccountsSendData" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/32 Testing: AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord
+5/32 Test: AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminFlowTest
+[ RUN      ] AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord
+[       OK ] AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord (66 ms)
+[----------] 1 test from AdminFlowTest (66 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (66 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.36 sec
+----------------------------------------------------------
+Test Passed.
+"AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord" end time: May 13 14:01 India Standard Time
+"AdminFlowTest.BalanceUpdatesRecordAndDeleteRemovesRecord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/32 Testing: AdminFlowTest.SearchByUsernameFindsAndSendsProfile
+6/32 Test: AdminFlowTest.SearchByUsernameFindsAndSendsProfile
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminFlowTest.SearchByUsernameFindsAndSendsProfile" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminFlowTest.SearchByUsernameFindsAndSendsProfile" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminFlowTest.SearchByUsernameFindsAndSendsProfile
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminFlowTest
+[ RUN      ] AdminFlowTest.SearchByUsernameFindsAndSendsProfile
+[       OK ] AdminFlowTest.SearchByUsernameFindsAndSendsProfile (9 ms)
+[----------] 1 test from AdminFlowTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (10 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"AdminFlowTest.SearchByUsernameFindsAndSendsProfile" end time: May 13 14:01 India Standard Time
+"AdminFlowTest.SearchByUsernameFindsAndSendsProfile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/32 Testing: AdminFlowTest.StockCase2ModifiesPriceAndLevels
+7/32 Test: AdminFlowTest.StockCase2ModifiesPriceAndLevels
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminFlowTest.StockCase2ModifiesPriceAndLevels" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminFlowTest.StockCase2ModifiesPriceAndLevels" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminFlowTest.StockCase2ModifiesPriceAndLevels
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminFlowTest
+[ RUN      ] AdminFlowTest.StockCase2ModifiesPriceAndLevels
+[       OK ] AdminFlowTest.StockCase2ModifiesPriceAndLevels (38 ms)
+[----------] 1 test from AdminFlowTest (38 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (38 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.61 sec
+----------------------------------------------------------
+Test Passed.
+"AdminFlowTest.StockCase2ModifiesPriceAndLevels" end time: May 13 14:01 India Standard Time
+"AdminFlowTest.StockCase2ModifiesPriceAndLevels" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/32 Testing: ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer
+8/32 Test: ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintTest
+[ RUN      ] ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer
+[       OK ] ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer (48 ms)
+[----------] 1 test from ComplaintTest (48 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (49 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer" end time: May 13 14:01 India Standard Time
+"ComplaintTest.CustomerWriteIsUniqueAndEmployeeCanAnswer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/32 Testing: ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter
+9/32 Test: ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintTest
+[ RUN      ] ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter
+[       OK ] ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter (119 ms)
+[----------] 1 test from ComplaintTest (119 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (119 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter" end time: May 13 14:01 India Standard Time
+"ComplaintTest.CustomerUpdateAllowedBeforeAnsweredButNotAfter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/32 Testing: ComplaintTest.EmployeeListAndClear
+10/32 Test: ComplaintTest.EmployeeListAndClear
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=ComplaintTest.EmployeeListAndClear" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"ComplaintTest.EmployeeListAndClear" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ComplaintTest.EmployeeListAndClear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ComplaintTest
+[ RUN      ] ComplaintTest.EmployeeListAndClear
+[       OK ] ComplaintTest.EmployeeListAndClear (158 ms)
+[----------] 1 test from ComplaintTest (158 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (158 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.65 sec
+----------------------------------------------------------
+Test Passed.
+"ComplaintTest.EmployeeListAndClear" end time: May 13 14:01 India Standard Time
+"ComplaintTest.EmployeeListAndClear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/32 Testing: BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles
+11/32 Test: BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BuyFlowTest
+[ RUN      ] BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles
+[       OK ] BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles (86 ms)
+[----------] 1 test from BuyFlowTest (86 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (87 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles" end time: May 13 14:01 India Standard Time
+"BuyFlowTest.SuccessfulOrderTriggersReorderAndUpdatesFiles" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/32 Testing: BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash
+12/32 Test: BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BuyFlowTest
+[ RUN      ] BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash
+[       OK ] BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash (13 ms)
+[----------] 1 test from BuyFlowTest (13 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (13 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash" end time: May 13 14:01 India Standard Time
+"BuyFlowTest.NotEnoughStockSendsNotEnoughAndDoesNotCrash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/32 Testing: BuyFlowTest.ConfirmWithNoOrderSendsNoOrder
+13/32 Test: BuyFlowTest.ConfirmWithNoOrderSendsNoOrder
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=BuyFlowTest.ConfirmWithNoOrderSendsNoOrder" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"BuyFlowTest.ConfirmWithNoOrderSendsNoOrder" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = BuyFlowTest.ConfirmWithNoOrderSendsNoOrder
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from BuyFlowTest
+[ RUN      ] BuyFlowTest.ConfirmWithNoOrderSendsNoOrder
+[       OK ] BuyFlowTest.ConfirmWithNoOrderSendsNoOrder (45 ms)
+[----------] 1 test from BuyFlowTest (45 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (46 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.43 sec
+----------------------------------------------------------
+Test Passed.
+"BuyFlowTest.ConfirmWithNoOrderSendsNoOrder" end time: May 13 14:01 India Standard Time
+"BuyFlowTest.ConfirmWithNoOrderSendsNoOrder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/32 Testing: PersonFileIOTest.TransferToFileWritesBasicRecord
+14/32 Test: PersonFileIOTest.TransferToFileWritesBasicRecord
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonFileIOTest.TransferToFileWritesBasicRecord" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonFileIOTest.TransferToFileWritesBasicRecord" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonFileIOTest.TransferToFileWritesBasicRecord
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonFileIOTest
+[ RUN      ] PersonFileIOTest.TransferToFileWritesBasicRecord
+[       OK ] PersonFileIOTest.TransferToFileWritesBasicRecord (9 ms)
+[----------] 1 test from PersonFileIOTest (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (9 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.31 sec
+----------------------------------------------------------
+Test Passed.
+"PersonFileIOTest.TransferToFileWritesBasicRecord" end time: May 13 14:01 India Standard Time
+"PersonFileIOTest.TransferToFileWritesBasicRecord" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/32 Testing: PersonFileIOTest.InitializeBalanceFindsBalanceForLookup
+15/32 Test: PersonFileIOTest.InitializeBalanceFindsBalanceForLookup
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonFileIOTest.InitializeBalanceFindsBalanceForLookup" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonFileIOTest.InitializeBalanceFindsBalanceForLookup" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonFileIOTest.InitializeBalanceFindsBalanceForLookup
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonFileIOTest
+[ RUN      ] PersonFileIOTest.InitializeBalanceFindsBalanceForLookup
+[       OK ] PersonFileIOTest.InitializeBalanceFindsBalanceForLookup (5 ms)
+[----------] 1 test from PersonFileIOTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"PersonFileIOTest.InitializeBalanceFindsBalanceForLookup" end time: May 13 14:01 India Standard Time
+"PersonFileIOTest.InitializeBalanceFindsBalanceForLookup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/32 Testing: PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup
+16/32 Test: PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonFileIOTest
+[ RUN      ] PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup
+[       OK ] PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup (21 ms)
+[----------] 1 test from PersonFileIOTest (21 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (21 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup" end time: May 13 14:01 India Standard Time
+"PersonFileIOTest.UpdateBalanceRewritesBalanceLineForLookup" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/32 Testing: CashTest.StartsAtZero
+17/32 Test: CashTest.StartsAtZero
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=CashTest.StartsAtZero" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"CashTest.StartsAtZero" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CashTest.StartsAtZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CashTest
+[ RUN      ] CashTest.StartsAtZero
+[       OK ] CashTest.StartsAtZero (0 ms)
+[----------] 1 test from CashTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"CashTest.StartsAtZero" end time: May 13 14:01 India Standard Time
+"CashTest.StartsAtZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/32 Testing: CashTest.CashInIncreasesFinalCash
+18/32 Test: CashTest.CashInIncreasesFinalCash
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=CashTest.CashInIncreasesFinalCash" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"CashTest.CashInIncreasesFinalCash" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CashTest.CashInIncreasesFinalCash
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CashTest
+[ RUN      ] CashTest.CashInIncreasesFinalCash
+[       OK ] CashTest.CashInIncreasesFinalCash (0 ms)
+[----------] 1 test from CashTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"CashTest.CashInIncreasesFinalCash" end time: May 13 14:01 India Standard Time
+"CashTest.CashInIncreasesFinalCash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/32 Testing: CashTest.CashOutDecreasesFinalCash
+19/32 Test: CashTest.CashOutDecreasesFinalCash
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=CashTest.CashOutDecreasesFinalCash" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"CashTest.CashOutDecreasesFinalCash" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CashTest.CashOutDecreasesFinalCash
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CashTest
+[ RUN      ] CashTest.CashOutDecreasesFinalCash
+[       OK ] CashTest.CashOutDecreasesFinalCash (0 ms)
+[----------] 1 test from CashTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"CashTest.CashOutDecreasesFinalCash" end time: May 13 14:01 India Standard Time
+"CashTest.CashOutDecreasesFinalCash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/32 Testing: PersonTest.DefaultConstructor
+20/32 Test: PersonTest.DefaultConstructor
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonTest.DefaultConstructor" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonTest.DefaultConstructor" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonTest.DefaultConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.DefaultConstructor
+[       OK ] PersonTest.DefaultConstructor (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.DefaultConstructor" end time: May 13 14:01 India Standard Time
+"PersonTest.DefaultConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/32 Testing: PersonTest.ParameterizedConstructor
+21/32 Test: PersonTest.ParameterizedConstructor
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonTest.ParameterizedConstructor" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonTest.ParameterizedConstructor" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonTest.ParameterizedConstructor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.ParameterizedConstructor
+[       OK ] PersonTest.ParameterizedConstructor (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.ParameterizedConstructor" end time: May 13 14:01 India Standard Time
+"PersonTest.ParameterizedConstructor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/32 Testing: PersonTest.SettersAndGetters
+22/32 Test: PersonTest.SettersAndGetters
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonTest.SettersAndGetters" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonTest.SettersAndGetters" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonTest.SettersAndGetters
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.SettersAndGetters
+[       OK ] PersonTest.SettersAndGetters (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.30 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.SettersAndGetters" end time: May 13 14:01 India Standard Time
+"PersonTest.SettersAndGetters" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/32 Testing: PersonTest.EdgeCaseEmptyName
+23/32 Test: PersonTest.EdgeCaseEmptyName
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=PersonTest.EdgeCaseEmptyName" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"PersonTest.EdgeCaseEmptyName" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = PersonTest.EdgeCaseEmptyName
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from PersonTest
+[ RUN      ] PersonTest.EdgeCaseEmptyName
+[       OK ] PersonTest.EdgeCaseEmptyName (0 ms)
+[----------] 1 test from PersonTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"PersonTest.EdgeCaseEmptyName" end time: May 13 14:01 India Standard Time
+"PersonTest.EdgeCaseEmptyName" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/32 Testing: EmployeeTest.BasicSetGet
+24/32 Test: EmployeeTest.BasicSetGet
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=EmployeeTest.BasicSetGet" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"EmployeeTest.BasicSetGet" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeTest.BasicSetGet
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeTest
+[ RUN      ] EmployeeTest.BasicSetGet
+[       OK ] EmployeeTest.BasicSetGet (0 ms)
+[----------] 1 test from EmployeeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeTest.BasicSetGet" end time: May 13 14:01 India Standard Time
+"EmployeeTest.BasicSetGet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/32 Testing: EmployeeTest.EdgeCaseZeroAge
+25/32 Test: EmployeeTest.EdgeCaseZeroAge
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=EmployeeTest.EdgeCaseZeroAge" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"EmployeeTest.EdgeCaseZeroAge" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeTest.EdgeCaseZeroAge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeTest
+[ RUN      ] EmployeeTest.EdgeCaseZeroAge
+[       OK ] EmployeeTest.EdgeCaseZeroAge (0 ms)
+[----------] 1 test from EmployeeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeTest.EdgeCaseZeroAge" end time: May 13 14:01 India Standard Time
+"EmployeeTest.EdgeCaseZeroAge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/32 Testing: EmployeeTest.MultipleEmployees
+26/32 Test: EmployeeTest.MultipleEmployees
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=EmployeeTest.MultipleEmployees" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"EmployeeTest.MultipleEmployees" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmployeeTest.MultipleEmployees
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmployeeTest
+[ RUN      ] EmployeeTest.MultipleEmployees
+[       OK ] EmployeeTest.MultipleEmployees (0 ms)
+[----------] 1 test from EmployeeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"EmployeeTest.MultipleEmployees" end time: May 13 14:01 India Standard Time
+"EmployeeTest.MultipleEmployees" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/32 Testing: CustomerTest.SetAndGetName
+27/32 Test: CustomerTest.SetAndGetName
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=CustomerTest.SetAndGetName" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"CustomerTest.SetAndGetName" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CustomerTest.SetAndGetName
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CustomerTest
+[ RUN      ] CustomerTest.SetAndGetName
+[       OK ] CustomerTest.SetAndGetName (0 ms)
+[----------] 1 test from CustomerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"CustomerTest.SetAndGetName" end time: May 13 14:01 India Standard Time
+"CustomerTest.SetAndGetName" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/32 Testing: CustomerTest.SetAndGetAge
+28/32 Test: CustomerTest.SetAndGetAge
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=CustomerTest.SetAndGetAge" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"CustomerTest.SetAndGetAge" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CustomerTest.SetAndGetAge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CustomerTest
+[ RUN      ] CustomerTest.SetAndGetAge
+[       OK ] CustomerTest.SetAndGetAge (0 ms)
+[----------] 1 test from CustomerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.24 sec
+----------------------------------------------------------
+Test Passed.
+"CustomerTest.SetAndGetAge" end time: May 13 14:01 India Standard Time
+"CustomerTest.SetAndGetAge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/32 Testing: CustomerTest.MultipleCustomersIndependence
+29/32 Test: CustomerTest.MultipleCustomersIndependence
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=CustomerTest.MultipleCustomersIndependence" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"CustomerTest.MultipleCustomersIndependence" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CustomerTest.MultipleCustomersIndependence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CustomerTest
+[ RUN      ] CustomerTest.MultipleCustomersIndependence
+[       OK ] CustomerTest.MultipleCustomersIndependence (0 ms)
+[----------] 1 test from CustomerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.32 sec
+----------------------------------------------------------
+Test Passed.
+"CustomerTest.MultipleCustomersIndependence" end time: May 13 14:01 India Standard Time
+"CustomerTest.MultipleCustomersIndependence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/32 Testing: AdminTest.SetName
+30/32 Test: AdminTest.SetName
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminTest.SetName" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminTest.SetName" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminTest.SetName
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminTest
+[ RUN      ] AdminTest.SetName
+[       OK ] AdminTest.SetName (0 ms)
+[----------] 1 test from AdminTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.18 sec
+----------------------------------------------------------
+Test Passed.
+"AdminTest.SetName" end time: May 13 14:01 India Standard Time
+"AdminTest.SetName" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/32 Testing: AdminTest.SetAge
+31/32 Test: AdminTest.SetAge
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminTest.SetAge" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminTest.SetAge" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminTest.SetAge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminTest
+[ RUN      ] AdminTest.SetAge
+[       OK ] AdminTest.SetAge (0 ms)
+[----------] 1 test from AdminTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.35 sec
+----------------------------------------------------------
+Test Passed.
+"AdminTest.SetAge" end time: May 13 14:01 India Standard Time
+"AdminTest.SetAge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/32 Testing: AdminTest.ObjectIndependence
+32/32 Test: AdminTest.ObjectIndependence
+Command: "C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/unit_tests.exe" "--gtest_filter=AdminTest.ObjectIndependence" "--gtest_also_run_disabled_tests"
+Directory: C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage
+"AdminTest.ObjectIndependence" start time: May 13 14:01 India Standard Time
+Output:
+----------------------------------------------------------
+Running main() from C:/Users/Prathemesh/Desktop/BMC/Cpp/online-shopping-system/build-coverage/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = AdminTest.ObjectIndependence
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from AdminTest
+[ RUN      ] AdminTest.ObjectIndependence
+[       OK ] AdminTest.ObjectIndependence (0 ms)
+[----------] 1 test from AdminTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"AdminTest.ObjectIndependence" end time: May 13 14:01 India Standard Time
+"AdminTest.ObjectIndependence" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 13 14:01 India Standard Time

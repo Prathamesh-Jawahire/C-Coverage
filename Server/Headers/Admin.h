@@ -16,5 +16,6 @@ class Admin: public Employee
 
     public:
         void stock(void); // friend of goods
+        Admin() : Employee() {}
         Admin(Thread& server) : Employee(server) {}
 };

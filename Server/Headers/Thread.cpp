@@ -78,6 +78,11 @@ void worker(Data *d)
 
 int Thread::Send(const std::string& str) const
 {
+    if (testMode)
+    {
+        outbox.push_back(str);
+        return static_cast<int>(str.size());
+    }
     return send(data.client, str.c_str(), str.size() + 1, 0);
 }
 
@@ -97,6 +102,17 @@ int Thread::Send(const double& var) const
 
 int Thread::Rec(std::string &str)
 {
+    if (testMode)
+    {
+        if (inbox.empty())
+        {
+            str.clear();
+            return 0;
+        }
+        str = inbox.front();
+        inbox.pop_front();
+        return static_cast<int>(str.size());
+    }
     char buffer[4069];
     ZeroMemory(buffer, sizeof(buffer));
     

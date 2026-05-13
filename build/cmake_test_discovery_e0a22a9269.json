@@ -1,0 +1,137 @@
+{
+  "tests": 19,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "PersonFileIOTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "TransferToFileWritesBasicRecord",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person_fileio.cpp",
+          "line": 34
+        },
+        {
+          "name": "InitializeBalanceFindsBalanceForLookup",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person_fileio.cpp",
+          "line": 55
+        },
+        {
+          "name": "UpdateBalanceRewritesBalanceLineForLookup",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person_fileio.cpp",
+          "line": 76
+        }
+      ]
+    },
+    {
+      "name": "CashTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "StartsAtZero",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_cash.cpp",
+          "line": 4
+        },
+        {
+          "name": "CashInIncreasesFinalCash",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_cash.cpp",
+          "line": 9
+        },
+        {
+          "name": "CashOutDecreasesFinalCash",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_cash.cpp",
+          "line": 15
+        }
+      ]
+    },
+    {
+      "name": "PersonTest",
+      "tests": 4,
+      "testsuite": [
+        {
+          "name": "DefaultConstructor",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person.cpp",
+          "line": 4
+        },
+        {
+          "name": "ParameterizedConstructor",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person.cpp",
+          "line": 11
+        },
+        {
+          "name": "SettersAndGetters",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person.cpp",
+          "line": 18
+        },
+        {
+          "name": "EdgeCaseEmptyName",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_person.cpp",
+          "line": 27
+        }
+      ]
+    },
+    {
+      "name": "EmployeeTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "BasicSetGet",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_employee.cpp",
+          "line": 4
+        },
+        {
+          "name": "EdgeCaseZeroAge",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_employee.cpp",
+          "line": 13
+        },
+        {
+          "name": "MultipleEmployees",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Server\/test_employee.cpp",
+          "line": 20
+        }
+      ]
+    },
+    {
+      "name": "CustomerTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "SetAndGetName",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Client\/test_customer.cpp",
+          "line": 4
+        },
+        {
+          "name": "SetAndGetAge",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Client\/test_customer.cpp",
+          "line": 11
+        },
+        {
+          "name": "MultipleCustomersIndependence",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Client\/test_customer.cpp",
+          "line": 18
+        }
+      ]
+    },
+    {
+      "name": "AdminTest",
+      "tests": 3,
+      "testsuite": [
+        {
+          "name": "SetName",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Client\/test_admin.cpp",
+          "line": 4
+        },
+        {
+          "name": "SetAge",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Client\/test_admin.cpp",
+          "line": 11
+        },
+        {
+          "name": "ObjectIndependence",
+          "file": "C:\/Users\/Prathemesh\/Desktop\/BMC\/Cpp\/online-shopping-system\/tests\/Client\/test_admin.cpp",
+          "line": 18
+        }
+      ]
+    }
+  ]
+}
